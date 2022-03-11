@@ -1,0 +1,1 @@
+[whateverlink!](12345)
